@@ -1,6 +1,6 @@
-% md # Mathematics-Statistics
+# Mathematics-Statistics
 
-#FastMCD statistical algorithm to estimate scaltter and location parameters
+FastMCD statistical algorithm to estimate scaltter and location parameters
 FASTMCD computes the MCD estimator of a multivariate data set.  This 
  estimator is given by the subset of h observations with smallest covariance 
  determinant.  The MCD location estimate is then the mean of those h points,
