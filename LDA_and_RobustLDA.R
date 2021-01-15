@@ -26,7 +26,9 @@ lda = function(x,y,robust=TRUE,alpha,m,l,delta){
     #Pooled Covariance matrix
     cov_pooled = (1/(n0+n1-K))*((n0-1)*var(x_class0) + (n1-1)*var(x_class1))
   }
+  
   #case 2(when robustified LDA based on the MCD estimator should be computed)
+  
   else{
     
     #determining the cnter estimates using the data of the first class
@@ -42,9 +44,8 @@ lda = function(x,y,robust=TRUE,alpha,m,l,delta){
     #Pooled Covariance matrix
     cov_pooled = 1/(n0+n1-K)*((n0-1)*sigma0 + (n1-1)*sigma1)
   }
-  #-------------------------------------------------------------------------------------
+  
   #Calculating coefficients of LDA
-  #-------------------------------------------------------------------------------------
   lda.cf = solve(cov_pooled)%*%as.matrix(center[2,]-center[1,])
   lda.cf.normalized = t(lda.cf)%*%cov_pooled%*%lda.cf
   lda.cf.final = lda.cf/drop(sqrt(lda.cf.normalized)) #making sure the dimensions coinsize
@@ -52,6 +53,8 @@ lda = function(x,y,robust=TRUE,alpha,m,l,delta){
   listlda = list(center = center,cov_pooled = cov_pooled,prior = prior,coefficients = lda.cf.final)
   return(listlda)
 }
+
+
 #---------------------------------------------------------------------------------------------------------
 #Function PredictLDA
 #---------------------------------------------------------------------------------------------------------
