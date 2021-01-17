@@ -1,7 +1,8 @@
 # Mathematics-Statistics 
-# 1: Linear Regression Analysis
+# 1: Linear Regression 
 
 File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
+
 Programming Language: Python, Jupiter Notebook
 
 Linear regression is a linear approach to model the relationship between a scalar response (dependent varaible) and one or more explanatory variables (independent variables). The case of having single explanatory variable, the method is referred as simple linear regression. In case of having multiple explanatory variablea, the method is referred as multiple linear regression. Ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model. OLS chooses the parameters of a linear function of a set of explanatory variables by using the principle of least squares that minimizes the sum of the squares of the residuals" (differences between the observed dependent variable and those predicted by the linear function). The method is largely applied in Econometrics, Finance, Data Science and other subject areas. 
@@ -15,7 +16,9 @@ Publications:
 # 2: Linear Discriminant Analysis (LDA) Algorithm 
 
 File name: LDA.R
+
 Programming Language: R
+
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
 
 Linear discriminant analysis (LDA) (don't confuss this with Latent Dirichlit Allocation which is Topic Modelling technique) is a generalization of Fisher's linear discriminant, which is a statistical method to find a linear combination of features that characterizes/separates two or more classes of objects. The resulting combination may be used as a linear classifier. LDA is closely related to analysis of variance (ANOVA) and regression analysis, which also attempt to express one (dependent) variable as a linear combination of other (independent) variables. However, ANOVA uses a continuous dependent variable and categorical independent variables, whereas LDA uses a categorical dependent variable (classes of LDA) and continuous independent variables. Logistic regression and Probit regression are more similar to LDA than ANOVA is, as they also explain a categorical (dependent) variable by the values of continuous (independent) variables. The key difference between Logistic Regression/Probit regression and LDA is the assumption about the probability distribution about the explanatory (independent) variables. In case of LDA , fundamental assumtion is that the independent variables are normally distributed. This can be checked by looking at the probability distribution of the variables. 
@@ -30,6 +33,7 @@ Publications:
 
 # 3: FastMCD algorithm 
 File name: FastMCD.R, FastMCD.pdf
+
 Programming language: R (R-Studio)
 
 FastMCD statistical algorithm to estimate scaltter and location parameters FASTMCD computes the MCD estimator of a multivariate data set. This estimator is given by the subset of h observations with smallest covariance determinant. The MCD location estimate is then the mean of those h points,and the MCD scatter estimate is their covariance matrix.  The default value of h is roughly 0.75n (where n is the total number of observations), but the user may choose each value between n/2 and n.
@@ -46,7 +50,8 @@ Publications:
 
 # 4: Kolmogorov-Smirnov test
 File Name: KS_D_statistics.py, KS_D_statistics.py
-Programming language: Python (3)
+
+Programming language: Python 
 
 Kolmogorov–Smirnov test (K–S test or KS test) is a nonparametric test of the equality of continuous, one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test). The KS statistic quantifies a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples. In this case it has been calculated using Garch distribution. The null distribution of this statistic is calculated under the null hypothesis that the sample is drawn from the reference distribution (in the one-sample case) or that the samples are drawn from the same distribution (in the two-sample case). 
 
@@ -55,8 +60,9 @@ Publications:
     Journal of Statistical Software, Vol. 39, pp. 1-18.
     
     
-# 5: kNN Imputation to Handle Missing Data
+# 5: kNN Imputation to handle missing data
 File Name: kNN_Imputation.R, kNN_Imputation.pdf
+
 Programming language: R
 
 k-Nearest Neighbour Imputation techique is one of the most popular imputation techniques to handle missing data which can cause problems in many machine learning algorithms. Missing values exist in almost all datasets and it is essential to handle them properly in order to construct reliable machine learning models with optimal statistical power. This imputer utilizes the k-Nearest Neighbors method to replace the missing values in the datasets with the mean value from the parameter ‘n_neighbors’ nearest neighbors found in the training set. By default, it uses a Euclidean distance metric to impute the missing values. One thing to be aware of here is that the kNN Imputer does not recognize text data values. Using strings instead of numerical data values will result in errors. To solve this, one can use One-Hot-Encoder to transform string type varaibles to numerical ones. Another important point here is that the kNN Imptuer is a distance-based imputation method and it requires normalized data. 
