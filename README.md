@@ -55,7 +55,7 @@ Publications:
     Journal of Statistical Software, Vol. 39, pp. 1-18.
     
     
-# 5: kNN Imputation to Handle Missing Data in Machine Learning
+# 5: kNN Imputation to Handle Missing Data
 File Name: kNN_Imputation.R, kNN_Imputation.pdf
 Programming language: R
 
