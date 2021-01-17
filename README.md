@@ -42,7 +42,7 @@ Publications:
    - Rousseeuw, P.J. (1984), "Least Median of Squares Regression," 
    Journal of the American Statistical Association, Vol. 79, pp. 871-881.
    - Rousseeuw, P.J. and Van Driessen, K. (1999), "A Fast Algorithm for the 
-   Minimum Covariance Determinant Estimator," Technometrics, 41, pp. 212-223.
+   Minimum Covariance Determinant Estimator," Technometrics, Vol. 41, pp. 212-223.
 
 # 4: Kolmogorov-Smirnov test
 File Name: KS_D_statistics.py, KS_D_statistics.py
@@ -53,3 +53,17 @@ Kolmogorov–Smirnov test (K–S test or KS test) is a nonparametric test of the
 Publications:
    - Richard S. & Pierre L. (2011), "Computing the Two-Sided Kolmogorov-Smirnov Distribution,"
     Journal of Statistical Software, Vol. 39, pp. 1-18.
+    
+    
+# 5: kNN Imputation to Handle Missing Data in Machine Learning
+File Name: kNN_Imputation.R, kNN_Imputation.pdf
+Programming language: R
+
+k-Nearest Neighbour Imputation techique is one of the most popular imputation techniques to handle missing data which can cause problems in many machine learning algorithms. Missing values exist in almost all datasets and it is essential to handle them properly in order to construct reliable machine learning models with optimal statistical power. This imputer utilizes the k-Nearest Neighbors method to replace the missing values in the datasets with the mean value from the parameter ‘n_neighbors’ nearest neighbors found in the training set. By default, it uses a Euclidean distance metric to impute the missing values. One thing to be aware of here is that the kNN Imputer does not recognize text data values. Using strings instead of numerical data values will result in errors. To solve this, one can use One-Hot-Encoder to transform string type varaibles to numerical ones. Another important point here is that the kNN Imptuer is a distance-based imputation method and it requires normalized data. 
+
+Publications:
+   - Pan, R., (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
+
+
+
+
