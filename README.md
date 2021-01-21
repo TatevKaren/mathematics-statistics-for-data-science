@@ -1,18 +1,16 @@
 # Mathematics-Statistics 
 # 1: Linear Regression 
-
 File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
 
 Linear regression is a linear approach to model the relationship between a scalar response (dependent varaible) and one or more explanatory variables (independent variables). The case of having single explanatory variable, the method is referred as simple linear regression. In case of having multiple explanatory variablea, the method is referred as multiple linear regression. Ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model. OLS chooses the parameters of a linear function of a set of explanatory variables by using the principle of least squares that minimizes the sum of the squares of the residuals" (differences between the observed dependent variable and those predicted by the linear function). The method is largely applied in Econometrics, Finance, Data Science and other subject areas. 
 
 Publications:
 
-- Kumari, K. and Yadav, S. (2018). Linear regression analysis study. 4101(4): 33
-- Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106): 234–240
+- Kumari, K. and Yadav, S. (2018). Linear regression analysis study. 4101(4), 33
+- Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 
 
 # 2: Linear Discriminant Analysis (LDA) Algorithm 
-
 File name: LDA.R
 
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
@@ -22,7 +20,7 @@ Linear discriminant analysis (LDA) (don't confuss this with Latent Dirichlit All
 Publications:
 
 - Nasar, S., Aldian, A., Nuredin, J., and Abusaeeda, I. (2016). Classification depend on linear discriminant analysis using desired outputs. 1109(10) 
-- Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4):629-640, 
+- Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4), 629-640, 
 
 
 # 3: FastMCD algorithm 
@@ -36,9 +34,9 @@ The FASTMCD algorithm uses several time-saving techniques which make it availabl
 
 Publications:
    - Rousseeuw, P.J. (1984), "Least Median of Squares Regression," 
-   Journal of the American Statistical Association, Vol. 79, pp. 871-881.
+   Journal of the American Statistical Association, 79, 871-881
    - Rousseeuw, P.J. and Van Driessen, K. (1999), "A Fast Algorithm for the 
-   Minimum Covariance Determinant Estimator," Technometrics, Vol. 41, pp. 212-223.
+   Minimum Covariance Determinant Estimator," Technometrics, 41, 212-223
 
 # 4: Kolmogorov-Smirnov test
 File Name: KS_D_statistics.py, KS_D_statistics.py
@@ -47,7 +45,7 @@ Kolmogorov–Smirnov test (K–S test or KS test) is a nonparametric test of the
 
 Publications:
    - Richard S. & Pierre L. (2011), "Computing the Two-Sided Kolmogorov-Smirnov Distribution,"
-    Journal of Statistical Software, Vol. 39, pp. 1-18.
+    Journal of Statistical Software, 39, 1-18.
     
     
 # 5: kNN Imputation to handle missing data
@@ -56,17 +54,28 @@ File Name: kNN_Imputation.R, kNN_Imputation.pdf
 k-Nearest Neighbour Imputation techique is one of the most popular imputation techniques to handle missing data which can cause problems in many machine learning algorithms. Missing values exist in almost all datasets and it is essential to handle them properly in order to construct reliable machine learning models with optimal statistical power. This imputer utilizes the k-Nearest Neighbors method to replace the missing values in the datasets with the mean value from the parameter ‘n_neighbors’ nearest neighbors found in the training set. By default, it uses a Euclidean distance metric to impute the missing values. One thing to be aware of here is that the kNN Imputer does not recognize text data values. Using strings instead of numerical data values will result in errors. To solve this, one can use One-Hot-Encoder to transform string type varaibles to numerical ones. Another important point here is that the kNN Imptuer is a distance-based imputation method and it requires normalized data. 
 
 Publications:
-   - Pan, R., (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
+   - Pan, R. (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
 
 
 
    
 # 6: Principal Componennt Analysis (PCA)
-File Name: PCA_Analysis.R
+File Name: PCA_PrincipalComponentAnalysis.R, PCA_application.R
 
 PCA is used in exploratory data analysis and for making predictive models. It is commonly used for dimensionality reduction by projecting each data point onto only the first few principal components to obtain lower-dimensional data while explaining as much possible variation in the data. PCA is scale-insensitive, therefore data normalization is not necessary. The first principal component can equivalently be defined as a direction that maximizes the variance of the projected data. The principal components are eigenvectors of the data's covariance matrix. To determine optimal number of PC's one can use one of the following methods: Keizer Rule, Elbow Rule
 
 Publicatioons: 
-   - Mishra, S., Sarkar, U., Taraphder, S., (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
+   - Mishra, S., Sarkar, U., Taraphder, S. (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
+
+
+   
+# 7: Factor Analysis (FA)
+File Name: FA_FactorAnalysis.R
+
+Factor analysis is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. So, the model attempts to explain a set of p observations in each of n individuals with a set of k common factors (F) where there are fewer factors per unit than observations per unit (k<p). Unlike the PCA, in case of FA the data needs to be normalized if needed, given the FA assumtion that the data follows normal distribution.
+
+Publications:
+- Cattell, R. (1965). A Biometrics Invited Paper. Factor Analysis: An Introduction to Essentials I. The Purpose and Underlying Models. Biometrics, 21(1), 190-215
+
 
 
