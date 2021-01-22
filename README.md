@@ -56,8 +56,6 @@ k-Nearest Neighbour Imputation techique is one of the most popular imputation te
 Publications:
    - Pan, R. (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
 
-
-
    
 # 6: Principal Componennt Analysis (PCA)
 File Name: PCA_PrincipalComponentAnalysis.R, PCA_application.R
@@ -67,15 +65,22 @@ PCA is used in exploratory data analysis and for making predictive models. It is
 Publicatioons: 
    - Mishra, S., Sarkar, U., Taraphder, S. (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
 
-
    
 # 7: Factor Analysis (FA)
 File Name: FA_FactorAnalysis.R
 
-Factor analysis is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. So, the model attempts to explain a set of p observations in each of n individuals with a set of k common factors (F) where there are fewer factors per unit than observations per unit (k<p). Unlike the PCA, in case of FA the data needs to be normalized if needed, given the FA assumtion that the data follows normal distribution.
+Factor analysis is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. So, the model attempts to explain a set of p observations in each of n individuals with a set of k common factors (F) where there are fewer factors per unit than observations per unit (k<p).  In factor analysis the factors are calculated to maximize between-group variance while minimizing in-group variance.  They are factors because they group the underlying variables. Unlike the PCA, in case of FA the data needs to be normalized if needed, given the FA assumtion that the data follows normal distribution.
 
 Publications:
 - Cattell, R. (1965). A Biometrics Invited Paper. Factor Analysis: An Introduction to Essentials I. The Purpose and Underlying Models. Biometrics, 21(1), 190-215
 
+   
+# 8: Canonical Correlation Analysis (CCA)
+File Name: CCA_CanonicalCorrelationAnalysis.R
+
+Canonical Correlation analysis is the analysis of multiple-X multiple-Y correlation.  The Canonical Correlation Coefficient measures the strength of association between two Canonical Variates. Canonical Variants are not factors because only the first pair of canonical variants groups the variables in such way that the correlation between them is maximized.  The second pair is constructed out of the residuals of the first pair in order to maximize correlation between them.  Therefore the canonical variants cannot be interpreted in the same way as factors in factor analysis.  Also the calculated canonical variates are automatically orthogonal, i.e., they are independent from each other. 
+
+Publications:
+-Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
 
