@@ -11,7 +11,7 @@ Publications:
 
 
 # 2: Linear Discriminant Analysis (LDA) Algorithm 
-File name: LDA.R
+File name: LDA.R, SimulationLDA.R
 
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
 
