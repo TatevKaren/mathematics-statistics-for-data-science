@@ -85,3 +85,7 @@ Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
 
+# 9: Finite Mixture Model with EM algorithm
+File Name: FiniteMixtureModel_EMalgorithm.pdf, FiniteMixtureModel_FMM_clustering.R
+
+
