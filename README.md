@@ -1,6 +1,6 @@
 # Mathematics-Statistics 
 # 1: Linear Regression 
-File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
+File name: MultipleLinearRegression_OLS.py, 
 
 Linear regression is a linear approach to model the relationship between a scalar response (dependent varaible) and one or more explanatory variables (independent variables). The case of having single explanatory variable, the method is referred as simple linear regression. In case of having multiple explanatory variablea, the method is referred as multiple linear regression. Ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model. OLS chooses the parameters of a linear function of a set of explanatory variables by using the principle of least squares that minimizes the sum of the squares of the residuals" (differences between the observed dependent variable and those predicted by the linear function). The method is largely applied in Econometrics, Finance, Data Science and other subject areas. 
 
