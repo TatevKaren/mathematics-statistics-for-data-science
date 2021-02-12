@@ -25,7 +25,7 @@ Publications:
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 
 
-# 2: Linear Discriminant Analysis (LDA) Algorithm 
+# 2: Linear Discriminant Analysis (LDA)  
 File name: LDA.R, SimulationLDA.R
 
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
@@ -102,5 +102,12 @@ Publications:
 
 # 9: Finite Mixture Model with EM algorithm
 File Name: FiniteMixtureModel_EMalgorithm.pdf, FiniteMixtureModel_FMM_clustering.R
+
+Finite mixture distributions are a weighted average of a finite number of distributions. The latter are usually called the mixture components. The weights are usually described by a multinomial distribution and are sometimes called mixing proportions. The mixture
+components may be the same type of distributions with different parameter values but they may also be completely different distributions Therefore, finite mixture distributions are very flexible for modeling data.
+They are frequently used as a building block within many modern econometric models. This model is especifially helpful when segmenting customers into segments while taking into account that customers aree different: heterogenous. 
+
+Publications:
+ - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 
 
