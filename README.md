@@ -3,9 +3,9 @@
 ## 1: Linear Regression 
 
 Required Files: 
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple_LinearRegression_Diabetes_example.py"> Multiple Linear Regression OLS Diabetes Data Example</a>
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple_LinearRegression_Boston_example.py">Multiple Linear Regression OLS Boston Data Example</a>
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultipleLinearRegression_OLS.py"> </a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Python Code</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple_LinearRegression_Diabetes_example.py"> Multiple Linear Regression OLS Diabetes Data Example Python Code</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple_LinearRegression_Boston_example.py">Multiple Linear Regression OLS Boston Data Example Python Code</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple%20LR%20with%20Boston%20data.png">Multiple Linear Regression OLS Boston Data Output</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multiple%20LR%20with%20Boston%20data2.png">Multiple Linear Regression OLS Boston Data Output 2</a>
 
