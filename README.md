@@ -1,4 +1,4 @@
-# 1: Linear Regression 
+# Linear Regression 
 
 Required Files: 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Python Code</a>
@@ -30,7 +30,7 @@ Publications:
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 
 
-# 2: Linear Discriminant Analysis (LDA) 
+# Linear Discriminant Analysis (LDA) 
 
 Supportig Files:
 
@@ -56,7 +56,7 @@ Publications:
 
 <br>
 
-# 3: FastMCD Case Study in Advanced Statitics 
+# FastMCD Case Study in Advanced Statitics 
 Supporting Files: 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> FastMCD Case Study Paper (pdf)</a>
@@ -74,7 +74,7 @@ Publications:
    - Rousseeuw, P.J. and Van Driessen, K. (1999), "A Fast Algorithm for the 
    Minimum Covariance Determinant Estimator," Technometrics, 41, 212-223
 
-# 4: Kolmogorov-Smirnov test
+# Kolmogorov-Smirnov test
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_statistics.py"> Kolmogorov Smirnov D-statistics Python Code</a>
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_test.py">Kolmogorov Smirnov Test Python Code </a> 
@@ -86,7 +86,7 @@ Publications:
     Journal of Statistical Software, 39, 1-18.
     
     
-# 5: kNN Imputation to handle missing data
+# kNN Imputation to handle missing data
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper (pdf)</a>
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.R">kNN Imputation R Code </a> 
@@ -98,7 +98,7 @@ Publications:
    - Pan, R. (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
 
    
-# 6: Principal Componennt Analysis (PCA)
+# Principal Componennt Analysis (PCA)
 Supporting Files: 
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">PCA Application Paper (pdf)</a>
@@ -111,7 +111,7 @@ Publicatioons:
    - Mishra, S., Sarkar, U., Taraphder, S. (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
 
    
-# 7: Factor Analysis (FA)
+# Factor Analysis (FA)
 Supporting Files: 
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">FA Application Paper (pdf)</a>
@@ -125,7 +125,7 @@ Publications:
  - Cattell, R. (1965). A Biometrics Invited Paper. Factor Analysis: An Introduction to Essentials I. The Purpose and Underlying Models. Biometrics, 21(1), 190-215
 
    
-# 8: Canonical Correlation Analysis (CCA)
+# Canonical Correlation Analysis (CCA)
 Supporting Files: 
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">CCA Application Paper (pdf)</a>
@@ -138,8 +138,11 @@ Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
 
-# 9: Finite Mixture Model with EM algorithm
-File Name: FiniteMixtureModel_EMalgorithm.pdf, FiniteMixtureModel_FMM_clustering.R
+# Finite Mixture Model with EM algorithm
+Supporting Files:
+
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_EMalgorithm.pdf"> Descriptive Paper (pdf) </a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_FMM_clustering.R"> FMM Application R Code </a>
 
 Finite mixture distributions are a weighted average of a finite number of distributions. The latter are usually called the mixture components. The weights are usually described by a multinomial distribution and are sometimes called mixing proportions. The mixture
 components may be the same type of distributions with different parameter values but they may also be completely different distributions Therefore, finite mixture distributions are very flexible for modeling data.
@@ -148,7 +151,7 @@ They are frequently used as a building block within many modern econometric mode
 Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 
-# 10: Advanced Statistics Case Study: Missing Data
+# Advanced Statistics Case Study: Missing Data
 Supporting Files:
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper (pdf) </a>
