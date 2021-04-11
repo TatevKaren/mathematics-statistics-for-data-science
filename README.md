@@ -75,7 +75,9 @@ Publications:
    Minimum Covariance Determinant Estimator," Technometrics, 41, 212-223
 
 # 4: Kolmogorov-Smirnov test
-File Name: KS_D_statistics.py, KS_D_statistics.py
+Supporting Files: 
+ - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_statistics.py"> Kolmogorov Smirnov D-statistics Python Code</a>
+ - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_test.py">Kolmogorov Smirnov Test Python Code </a> 
 
 Kolmogorov–Smirnov test (K–S test or KS test) is a nonparametric test of the equality of continuous, one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test). The KS statistic quantifies a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples. In this case it has been calculated using Garch distribution. The null distribution of this statistic is calculated under the null hypothesis that the sample is drawn from the reference distribution (in the one-sample case) or that the samples are drawn from the same distribution (in the two-sample case). 
 
