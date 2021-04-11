@@ -99,7 +99,10 @@ Publications:
 
    
 # 6: Principal Componennt Analysis (PCA)
-File Name: PCA_PrincipalComponentAnalysis.R, PCA_application.R
+Supporting Files: 
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">PCA Application Paper (pdf)</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_PrincipalComponentAnalysis.R">PCA R Code</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_application.R"> PCA Application R Code</a>
 
 PCA is used in exploratory data analysis and for making predictive models. It is commonly used for dimensionality reduction by projecting each data point onto only the first few principal components to obtain lower-dimensional data while explaining as much possible variation in the data. PCA is scale-insensitive, therefore data normalization is not necessary. The first principal component can equivalently be defined as a direction that maximizes the variance of the projected data. The principal components are eigenvectors of the data's covariance matrix. To determine optimal number of PC's one can use one of the following methods: Keizer Rule, Elbow Rule
 
