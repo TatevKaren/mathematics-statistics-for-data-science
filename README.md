@@ -146,5 +146,5 @@ Missing data is a widely-known issue in numerous fields of scientific research m
 - Missing data mechanisms (MNAR, MCAR, MAR)
 - Missing data imputation techniques (Single Imputation, Multiple Imputation)
 - OLS regression
-- Robust MM regressio
+- Robust MM regression
 
