@@ -119,13 +119,15 @@ Publications:
 
 <br> 
 
-## Multivariate Statistics Case Study: Dimensionality Reduction Techniques
+## Multivariate Statistics Case Study: US City Ranking
 
 Supporting Files: 
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">Case Study R Code</a>
 <br> 
+
+Case Study that aims to find the rankings of the cities in United States based on a single combination of 9 rating variables using multivariate techniques: Principal Components Analysis (PCA) and Factor Analysis (FA). Moreover, we will also use Canonical Correlation Analysis (CCA) to get more insight of this data and investigate the correlation between two sets of rating variables (if existing). We aim to find the linear combination of rating variables that would maximally explain the variation of the data and rank the U.S. cities according to this new rating criterion.
 
 ## Advanced Statistics Case Study: FastMCD Robust Covariance Matrix
 
