@@ -81,6 +81,18 @@ Publications:
 
 <br> 
    
+
+# Multivariate Statistics Case Study: US City Ranking
+
+Supporting Files: 
+
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">Case Study R Code</a>
+<br> 
+
+Case Study that aims to find the rankings of the cities in United States based on a single combination of 9 rating variables using multivariate techniques: Principal Components Analysis (PCA) and Factor Analysis (FA). Moreover, we will also use Canonical Correlation Analysis (CCA) to get more insight of this data and investigate the correlation between two sets of rating variables (if existing). We aim to find the linear combination of rating variables that would maximally explain the variation of the data and rank the U.S. cities according to this new rating criterion.
+<br>
+
 # Principal Componennt Analysis (PCA)
 Supporting Files: 
 
@@ -104,7 +116,6 @@ Factor analysis is another statistical method for dimensionality reduction. It i
 Publications:
 
  - Cattell, R. (1965). A Biometrics Invited Paper. Factor Analysis: An Introduction to Essentials I. The Purpose and Underlying Models. Biometrics, 21(1), 190-215
-
    
 # Canonical Correlation Analysis (CCA)
 Supporting Files: 
@@ -118,16 +129,6 @@ Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
 <br> 
-
-## Multivariate Statistics Case Study: US City Ranking
-
-Supporting Files: 
-
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
-- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">Case Study R Code</a>
-<br> 
-
-Case Study that aims to find the rankings of the cities in United States based on a single combination of 9 rating variables using multivariate techniques: Principal Components Analysis (PCA) and Factor Analysis (FA). Moreover, we will also use Canonical Correlation Analysis (CCA) to get more insight of this data and investigate the correlation between two sets of rating variables (if existing). We aim to find the linear combination of rating variables that would maximally explain the variation of the data and rank the U.S. cities according to this new rating criterion.
 
 ## Advanced Statistics Case Study: FastMCD Robust Covariance Matrix
 
