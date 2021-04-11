@@ -87,7 +87,10 @@ Publications:
     
     
 # 5: kNN Imputation to handle missing data
-File Name: kNN_Imputation.R, kNN_Imputation.pdf
+Supporting Files: 
+ - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper</a>
+ - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.R">kNN Imputation R Code </a> 
+
 
 k-Nearest Neighbour Imputation techique is one of the most popular imputation techniques to handle missing data which can cause problems in many machine learning algorithms. Missing values exist in almost all datasets and it is essential to handle them properly in order to construct reliable machine learning models with optimal statistical power. This imputer utilizes the k-Nearest Neighbors method to replace the missing values in the datasets with the mean value from the parameter ‘n_neighbors’ nearest neighbors found in the training set. By default, it uses a Euclidean distance metric to impute the missing values. One thing to be aware of here is that the kNN Imputer does not recognize text data values. Using strings instead of numerical data values will result in errors. To solve this, one can use One-Hot-Encoder to transform string type varaibles to numerical ones. Another important point here is that the kNN Imptuer is a distance-based imputation method and it requires normalized data. 
 
