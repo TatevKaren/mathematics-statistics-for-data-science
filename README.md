@@ -119,19 +119,13 @@ Publications:
 
 <br> 
 
-# Finite Mixture Model with EM algorithm
-Supporting Files:
+## Multivariate Statistics Case Study: Dimensionality Reduction Techniques
 
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_EMalgorithm.pdf"> Descriptive Paper (pdf) </a>
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_FMM_clustering.R"> FMM Application R Code </a>
+Supporting Files: 
 
-Finite mixture distributions are a weighted average of a finite number of distributions. The latter are usually called the mixture components. The weights are usually described by a multinomial distribution and are sometimes called mixing proportions. The mixture
-components may be the same type of distributions with different parameter values but they may also be completely different distributions Therefore, finite mixture distributions are very flexible for modeling data.
-They are frequently used as a building block within many modern econometric models. This model is especifially helpful when segmenting customers into segments while taking into account that customers aree different: heterogenous. 
-
-Publications:
- - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
-<br>  
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">Case Study R Code</a>
+<br> 
 
 ## Advanced Statistics Case Study: FastMCD Robust Covariance Matrix
 
@@ -170,5 +164,19 @@ Missing data is a widely-known issue in numerous fields of scientific research m
 - OLS regression
 - Robust MM regression
 
+<br> 
+
+# Finite Mixture Model with EM algorithm
+Supporting Files:
+
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_EMalgorithm.pdf"> Descriptive Paper (pdf) </a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FiniteMixtureModel_FMM_clustering.R"> FMM Application R Code </a>
+
+Finite mixture distributions are a weighted average of a finite number of distributions. The latter are usually called the mixture components. The weights are usually described by a multinomial distribution and are sometimes called mixing proportions. The mixture
+components may be the same type of distributions with different parameter values but they may also be completely different distributions Therefore, finite mixture distributions are very flexible for modeling data.
+They are frequently used as a building block within many modern econometric models. This model is especifially helpful when segmenting customers into segments while taking into account that customers aree different: heterogenous. 
+
+Publications:
+ - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 <br> 
  
