@@ -59,7 +59,7 @@ Publications:
 # 3: FastMCD Case Study in Advanced Statitics 
 Supporting Files: 
 
-- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> FastMCD Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> FastMCD Case Study Paper (pdf)</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FastMCD.R">FastMCD Manully Written R Code</a>
 
 FastMCD statistical algorithm to estimate scaltter and location parameters FASTMCD computes the MCD estimator of a multivariate data set. This estimator is given by the subset of h observations with smallest covariance determinant. The MCD location estimate is then the mean of those h points,and the MCD scatter estimate is their covariance matrix.  The default value of h is roughly 0.75n (where n is the total number of observations), but the user may choose each value between n/2 and n.
@@ -88,7 +88,7 @@ Publications:
     
 # 5: kNN Imputation to handle missing data
 Supporting Files: 
- - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper</a>
+ - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper (pdf)</a>
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.R">kNN Imputation R Code </a> 
 
 
@@ -100,6 +100,7 @@ Publications:
    
 # 6: Principal Componennt Analysis (PCA)
 Supporting Files: 
+
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">PCA Application Paper (pdf)</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_PrincipalComponentAnalysis.R">PCA R Code</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_application.R"> PCA Application R Code</a>
@@ -111,7 +112,11 @@ Publicatioons:
 
    
 # 7: Factor Analysis (FA)
-File Name: FA_FactorAnalysis.R
+Supporting Files: 
+
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">FA Application Paper (pdf)</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FA_FactorAnalysis.R">FA R Code</a>
+
 
 Factor analysis is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. So, the model attempts to explain a set of p observations in each of n individuals with a set of k common factors (F) where there are fewer factors per unit than observations per unit (k<p).  In factor analysis the factors are calculated to maximize between-group variance while minimizing in-group variance.  They are factors because they group the underlying variables. Unlike the PCA, in case of FA the data needs to be normalized if needed, given the FA assumtion that the data follows normal distribution.
 
@@ -121,7 +126,11 @@ Publications:
 
    
 # 8: Canonical Correlation Analysis (CCA)
-File Name: CCA_CanonicalCorrelationAnalysis.R
+Supporting Files: 
+
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">CCA Application Paper (pdf)</a>
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/CCA_CanonicalCorrelationAnalysis.R">CCA R Code</a>
+
 
 Canonical Correlation analysis is the analysis of multiple-X multiple-Y correlation.  The Canonical Correlation Coefficient measures the strength of association between two Canonical Variates. Canonical Variants are not factors because only the first pair of canonical variants groups the variables in such way that the correlation between them is maximized.  The second pair is constructed out of the residuals of the first pair in order to maximize correlation between them.  Therefore the canonical variants cannot be interpreted in the same way as factors in factor analysis.  Also the calculated canonical variates are automatically orthogonal, i.e., they are independent from each other. 
 
