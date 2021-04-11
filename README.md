@@ -56,7 +56,7 @@ Publications:
 
 <br>
 
-# FastMCD Case Study in Advanced Statitics 
+# Advanced Statistics Case Study: FastMCD (Robust Covariance Matrix)
 Supporting Files: 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> FastMCD Case Study Paper (pdf)</a>
@@ -151,7 +151,7 @@ They are frequently used as a building block within many modern econometric mode
 Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 
-# Advanced Statistics Case Study: Missing Data
+# Advanced Statistics Case Study: Missing Data and Imputation Techniques
 Supporting Files:
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper (pdf) </a>
