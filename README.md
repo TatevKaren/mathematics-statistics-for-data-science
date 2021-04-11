@@ -23,12 +23,13 @@ Linear regression is a linear approach to model the relationship between a scala
   width="350" height="250">
 </p>
 
-
 Publications:
 
 - Kumari, K. and Yadav, S. (2018). Linear regression analysis study. 4101(4), 33
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 
+<br> 
+<br> 
 
 # Linear Discriminant Analysis (LDA) 
 
@@ -55,7 +56,7 @@ Publications:
 - Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4), 629-640, 
 
 <br>
-
+<br> 
 # Kolmogorov-Smirnov test
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_statistics.py"> Kolmogorov Smirnov D-statistics Python Code</a>
@@ -67,7 +68,8 @@ Publications:
    - Richard S. & Pierre L. (2011), "Computing the Two-Sided Kolmogorov-Smirnov Distribution,"
     Journal of Statistical Software, 39, 1-18.
     
-    
+<br> 
+<br>     
 # kNN Imputation to handle missing data
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper (pdf)</a>
@@ -79,7 +81,8 @@ k-Nearest Neighbour Imputation techique is one of the most popular imputation te
 Publications:
    - Pan, R. (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
 
-   
+<br> 
+<br>    
 # Principal Componennt Analysis (PCA)
 Supporting Files: 
 
@@ -119,7 +122,8 @@ Canonical Correlation analysis is the analysis of multiple-X multiple-Y correlat
 Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
-
+<br> 
+<br> 
 # Finite Mixture Model with EM algorithm
 Supporting Files:
 
@@ -170,3 +174,5 @@ Missing data is a widely-known issue in numerous fields of scientific research m
 - OLS regression
 - Robust MM regression
 
+<br> 
+<br> 
