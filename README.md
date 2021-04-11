@@ -56,8 +56,11 @@ Publications:
 
 <br>
 
-# 3: FastMCD algorithm 
-File name: FastMCD.R, FastMCD.pdf
+# 3: FastMCD Case Study in Advanced Statitics 
+Supporting Files: 
+
+- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> Case Study Paper</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FastMCD.R">FastMCD Manully Written R Code</a>
 
 FastMCD statistical algorithm to estimate scaltter and location parameters FASTMCD computes the MCD estimator of a multivariate data set. This estimator is given by the subset of h observations with smallest covariance determinant. The MCD location estimate is then the mean of those h points,and the MCD scatter estimate is their covariance matrix.  The default value of h is roughly 0.75n (where n is the total number of observations), but the user may choose each value between n/2 and n.
 
