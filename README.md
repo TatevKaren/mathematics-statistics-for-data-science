@@ -1,6 +1,4 @@
-# Mathematics-Statistics 
-
-## 1: Linear Regression 
+# 1: Linear Regression 
 
 Required Files: 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Python Code</a>
@@ -32,8 +30,12 @@ Publications:
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 
 
-# 2: Linear Discriminant Analysis (LDA)  
-File name: LDA.R, SimulationLDA.R
+# 2: Linear Discriminant Analysis (LDA) 
+
+Supportig Files:
+
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/LDA.R"> LDA R Code</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/SimulationLDA.R"> Simulation Study R Code</a>
 
 **LDA in Machine Learning**
 
