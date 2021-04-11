@@ -22,13 +22,10 @@ Linear regression is a linear approach to model the relationship between a scala
   alt="Multivariate Linear Regression plot"
   width="350" height="250">
 </p>
-
 Publications:
 
 - Kumari, K. and Yadav, S. (2018). Linear regression analysis study. 4101(4), 33
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
-
-<br> 
 <br> 
 
 # Linear Discriminant Analysis (LDA) 
@@ -39,7 +36,8 @@ Supportig Files:
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/SimulationLDA.R"> Simulation Study R Code</a>
 
 <br>
-## LDA in Machine Learning**
+
+**LDA in Machine Learning**
 
 <p align="left">
   <img src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Linear-Discriminant-Analysis-for-Machine-Learning.jpg?raw=true"
@@ -56,7 +54,7 @@ Publications:
 - Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4), 629-640, 
 
 <br>
-<br> 
+
 # Kolmogorov-Smirnov test
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KS_D_statistics.py"> Kolmogorov Smirnov D-statistics Python Code</a>
@@ -69,7 +67,7 @@ Publications:
     Journal of Statistical Software, 39, 1-18.
     
 <br> 
-<br>     
+    
 # kNN Imputation to handle missing data
 Supporting Files: 
  - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/KNN_Imputation.pdf"> kNN Imputation Paper (pdf)</a>
@@ -82,7 +80,7 @@ Publications:
    - Pan, R. (2015). "Missing data imputation by K nearest neighbours based on grey relational structure and mutual information," The International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies, 42(4).
 
 <br> 
-<br>    
+   
 # Principal Componennt Analysis (PCA)
 Supporting Files: 
 
@@ -95,13 +93,11 @@ PCA is used in exploratory data analysis and for making predictive models. It is
 Publicatioons: 
    - Mishra, S., Sarkar, U., Taraphder, S. (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
 
-   
 # Factor Analysis (FA)
 Supporting Files: 
 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">FA Application Paper (pdf)</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FA_FactorAnalysis.R">FA R Code</a>
-
 
 Factor analysis is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. So, the model attempts to explain a set of p observations in each of n individuals with a set of k common factors (F) where there are fewer factors per unit than observations per unit (k<p).  In factor analysis the factors are calculated to maximize between-group variance while minimizing in-group variance.  They are factors because they group the underlying variables. Unlike the PCA, in case of FA the data needs to be normalized if needed, given the FA assumtion that the data follows normal distribution.
 
@@ -116,14 +112,13 @@ Supporting Files:
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">CCA Application Paper (pdf)</a>
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/CCA_CanonicalCorrelationAnalysis.R">CCA R Code</a>
 
-
 Canonical Correlation analysis is the analysis of multiple-X multiple-Y correlation.  The Canonical Correlation Coefficient measures the strength of association between two Canonical Variates. Canonical Variants are not factors because only the first pair of canonical variants groups the variables in such way that the correlation between them is maximized.  The second pair is constructed out of the residuals of the first pair in order to maximize correlation between them.  Therefore the canonical variants cannot be interpreted in the same way as factors in factor analysis.  Also the calculated canonical variates are automatically orthogonal, i.e., they are independent from each other. 
 
 Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
 <br> 
-<br> 
+
 # Finite Mixture Model with EM algorithm
 Supporting Files:
 
@@ -136,7 +131,7 @@ They are frequently used as a building block within many modern econometric mode
 
 Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
-<br> <br> 
+<br>  
 
 # Advanced Statistics Case Study: FastMCD (Robust Covariance Matrix)
 Supporting Files: 
@@ -157,7 +152,6 @@ Publications:
    Minimum Covariance Determinant Estimator," Technometrics, 41, 212-223
    
 <br> 
-<br> 
 
 # Advanced Statistics Case Study: Missing Data and Imputation Techniques
 Supporting Files:
@@ -175,4 +169,4 @@ Missing data is a widely-known issue in numerous fields of scientific research m
 - Robust MM regression
 
 <br> 
-<br> 
+ 
