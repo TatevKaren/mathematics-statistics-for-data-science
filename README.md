@@ -129,4 +129,12 @@ They are frequently used as a building block within many modern econometric mode
 Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 
+# 10: Advanced Statistics Case Study: Missing Data
+Missing data is a widely-known issue in numerous fields of scientific research mainly because most of the statistical methods require complete data. Missing values in the data can have different reasons: respondents can mistakenly skip question resulting in nonresponse,the data might be combined from different surveys leading to incomplete information, failure in the net- work leading to the loss in the data and sometimes individuals consciously skip some questions which they might have found too personal, embarrassing or they simply didn’t want to share that information. Especially when dealing with large data sets,very often observations that con- tain missing values are being simply removed from research to get complete data and perform the analysis. This might lead to biased results with lower statistical power. Therefore, it is important to know the reason for missingness in the data and it’s effect on the analysis. This Case Study about missing data detection, known missing data menchanism, missing data imputation techniques and its application in Linear Regression and robus MM regression analysis.
+
+- Missing data detection
+- Missing data mechanisms (MNAR, MCAR, MAR)
+- Missing data imputation techniques (Single Imputation, Multiple Imputation)
+- OLS regression
+- Robust MM regressio
 
