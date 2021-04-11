@@ -133,8 +133,8 @@ Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 <br>  
 
-# Advanced Statistics Case Study: FastMCD 
-**(Robust Covariance Matrix)**
+## Advanced Statistics Case Study: FastMCD Robust Covariance Matrix
+
 Supporting Files: 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> FastMCD Case Study Paper (pdf)</a>
@@ -154,8 +154,7 @@ Publications:
    
 <br> 
 
-# Advanced Statistics Case Study
-**Missing Data and Imputation Techniques**
+## Advanced Statistics Case Study: Missing Data and Imputation Techniques
 
 Supporting Files:
 
