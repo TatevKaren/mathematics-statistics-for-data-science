@@ -16,7 +16,7 @@ Linear regression is a linear approach to model the relationship between a scala
   width="400" height="400">
 </p>
 
-
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/Mathematics-Statistics-for-Data-Science/blob/main/Multiple LR with Boston data2.png?raw=true"
   alt="Multivariate Linear Regression plot"
