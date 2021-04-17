@@ -2,7 +2,7 @@
 <p href ="https://tatev-aslanyan.medium.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" align="left">
   <img href ="https://tatev-aslanyan.medium.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" src="https://miro.medium.com/max/1400/1*uJMWuPQ1J4wCk5rim97v9Q.jpeg?raw=true"
   alt="Multivariate Linear Regression plot"
-  width="1000" height="500">
+  width="1000" height="600">
 </p>
 Check Statitics Summary Blog <a href = "https://tatev-aslanyan.medium.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7"> Fundamentals Of Statistics For Data Scientists and Data Analysts</a>
 <br>
