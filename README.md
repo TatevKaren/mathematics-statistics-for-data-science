@@ -103,6 +103,22 @@ Supporting Files:
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_application.R"> PCA Application R Code</a>
 
 PCA is used in exploratory data analysis and for making predictive models. It is commonly used for dimensionality reduction by projecting each data point onto only the first few principal components to obtain lower-dimensional data while explaining as much possible variation in the data. PCA is scale-insensitive, therefore data normalization is not necessary. The first principal component can equivalently be defined as a direction that maximizes the variance of the projected data. The principal components are eigenvectors of the data's covariance matrix. To determine optimal number of PC's one can use one of the following methods: Keizer Rule, Elbow Rule
+<br>
+
+
+**Principal Component Analysis (PCA) Application Example**
+
+Biplot with scaled data where yoou can observe that Crime and Education have the smallest margins and the remaining variables show substantial variations. First three principal components explain 63.10% of the total variation in data. Applying the ”elbow rule” it can be seen that one can optimally retain 3 components. 
+<p align="left">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/PCA_plot.png?raw=true"
+  alt="Principle Component Analysis"
+  width="450" height="300">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
+  alt="Principle Component Analysis: Elbow Rule % Variation Explained"
+  width="350" height="300">
+</p>
+
+<br>
 
 Publicatioons: 
    - Mishra, S., Sarkar, U., Taraphder, S. (2017). "Principal Component Analysis". International Journal of Livestock Research. 1(10)
@@ -126,7 +142,22 @@ Supporting Files:
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/CCA_CanonicalCorrelationAnalysis.R">CCA R Code</a>
 
 Canonical Correlation analysis is the analysis of multiple-X multiple-Y correlation.  The Canonical Correlation Coefficient measures the strength of association between two Canonical Variates. Canonical Variants are not factors because only the first pair of canonical variants groups the variables in such way that the correlation between them is maximized.  The second pair is constructed out of the residuals of the first pair in order to maximize correlation between them.  Therefore the canonical variants cannot be interpreted in the same way as factors in factor analysis.  Also the calculated canonical variates are automatically orthogonal, i.e., they are independent from each other. 
+<br>
 
+
+**Canonical Correlation Analysis (CCA) Application Example**
+
+Figures showing clear correlation between X and Y scores for the first canonical correlation which is not the case for the second factor, where one can observe some correlation but not significant. This shows that the first canonical correlation is important but second one is not.
+<p align="left">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot2.png?raw=true"
+  alt="Canonical Correlation Plot 2"
+  width="350" height="300">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
+  alt="Canonical Correlation Plot 1"
+  width="350" height="300">
+</p>
+
+<br>
 Publications:
  - Yang, X., Weifeng, L., Liu W., and Tao, D., (2019) "A Survey on Canonical Correlation Analysis," in IEEE Transactions on Knowledge and Data Engineering, 10(1109)
 
