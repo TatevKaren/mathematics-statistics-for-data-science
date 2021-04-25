@@ -4,7 +4,9 @@
   alt="Multivariate Linear Regression plot"
   width="1000" height="600">
 </p>
+
 Check out my Statitics Blog about **Fundamentals Of Statistics For Data Scientists and Data Analysts** in <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7"> Towards Data Science blog</a>
+
 <br>
 <br><br>
 
