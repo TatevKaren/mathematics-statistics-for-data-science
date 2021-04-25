@@ -42,7 +42,7 @@ Publications:
 
 # Linear Discriminant Analysis (LDA) 
 
-Supportig Files:
+Supporting Files:
 
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/LDA.R"> LDA R Code</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/SimulationLDA.R"> Simulation Study R Code</a>
