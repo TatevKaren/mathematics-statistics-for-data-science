@@ -227,3 +227,5 @@ Publications:
  - Melnykov, V.and Maitra, R., (2010). "Finite mixture models and model-based", in Associate Editor for the IMS, 4, 80–116
 <br> 
  
+# Bootstrapping
+Using Boostrap to estimate the standard error of the mean and median.
