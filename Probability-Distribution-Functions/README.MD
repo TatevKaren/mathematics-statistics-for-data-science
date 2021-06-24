@@ -22,6 +22,6 @@
 
 ## Poisson Distribution
 <p href ="https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" align="left">
-  <img href ="https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Probability-Distribution-Functions/Poisson_distribution.png?raw=true"
+  <img href ="https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Probability-Distribution-Functions/Poisson_Distribution.png?raw=true"
   width="500" height="350">
 </p>
