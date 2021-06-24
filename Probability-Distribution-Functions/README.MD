@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Binnomial Distribution
+## Binomial Distribution
 <br>
 
 <p href ="https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7" align="left">
