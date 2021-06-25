@@ -1,4 +1,5 @@
 # Linar Regression
+OLS from scratch <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Linear%20Regression/Linear%20Regression_OLS.py">Python Code here</a> including calculation of **t-statistics, p-value, Confidence Intervals, MSE, RMSE, R-squared**
 
 When the relationship between two variables is linear, then Linear Regression is a statistical method that can help to model the impact of a unit change in a variable, the independent variable on the values of another variable, the dependent variable.
 Dependent variables are often referred to as response variables or explained variables, whereas independent variables are often referred to as regressors or explanatory variables. When the Linear Regression model is based on a single independent variable, then the model is called Simple Linear Regression and when the model is based on multiple independent variables, it’s referred to as Multiple Linear Regression. Simple Linear Regression can be described by the following expression:
