@@ -8,7 +8,7 @@ Dependent variables are often referred to as response variables or explained var
 </p>
 where Y is the dependent variable, X is the independent variable which is part of the data, β0 is the intercept which is unknown and constant, β1 is the slope coefficient or a parameter corresponding to the variable X which is unknown and constant as well. Finally, u is the error term that the model makes when estimating the Y values. The main idea behind linear regression is to find the best-fitting straight line, the regression line, through a set of paired ( X, Y ) data. One example of the Linear Regression application is modeling the impact of Flipper Length on penguins’ Body Mass, which is visualized below.
 <br>
-<p>
+<p alighn = center>
 <img width = 500 src = https://miro.medium.com/max/1026/1*cS-5_yS2xa--V97U1RoAIQ.png>
 
 </p>
