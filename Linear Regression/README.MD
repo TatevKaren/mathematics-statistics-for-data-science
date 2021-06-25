@@ -17,9 +17,9 @@ where Y is the dependent variable, X is the independent variable which is part o
 ## Ordinary Least Squares
 The ordinary least squares (OLS) is a method for estimating the unknown parameters such as β0 and β1 in a linear regression model. The model is based on the principle of least squares that minimizes the sum of squares of the differences between the observed dependent variable and its values predicted by the linear function of the independent variable, often referred to as fitted values. This difference between the real and predicted values of dependent variable Y is referred to as residual and what OLS does, is minimizing the sum of squared residuals. This optimization problem results in the following OLS estimates for the unknown parameters β0 and β1 which are also known as coefficient estimates.
 ### OLS Assumptions
-OLS estimation method makes the following assumption which needs to be satisfied to get reliable prediction results:
-A1: Linearity assumption states that the model is linear in parameters.
-A2: Random Sample assumption states that all observations in the sample are randomly selected.
-A3: Exogeneity assumption states that independent variables are uncorrelated with the error terms.
-A4: Homoskedasticity assumption states that the variance of all error terms is constant.
-A5: No Perfect Multi-Collinearity assumption states that none of the independent variables is constant and there are no exact linear relationships between the independent variables.
+OLS estimation method makes the following assumption which needs to be satisfied to get reliable prediction results:<br>
+**A1:** Linearity assumption states that the model is linear in parameters.
+<br> **A2:** Random Sample assumption states that all observations in the sample are randomly selected.
+<br>**A3:** Exogeneity assumption states that independent variables are uncorrelated with the error terms.
+<br>**A4:** Homoskedasticity assumption states that the variance of all error terms is constant.
+<br>**A5:** No Perfect Multi-Collinearity assumption states that none of the independent variables is constant and there are no exact linear relationships between the independent variables.
