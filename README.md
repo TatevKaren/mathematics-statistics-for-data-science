@@ -39,6 +39,11 @@ Publications:
 - Kaya, U., Neşe, G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106), 234–240
 <br> 
 
+# Monte Carlo Simulation and Statistical Sampling
+- <a href= "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f"> Blog in Towards Data Science</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Statistical%20Sampling"> Github Repo</a>
+
+<br>
 # Linear Discriminant Analysis (LDA) 
 
 Supporting Files:
