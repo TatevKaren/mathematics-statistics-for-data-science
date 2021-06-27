@@ -19,19 +19,19 @@
 
 # Importance Sampling
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Importance%20Sampling.py">Python Code here</a>
-- <a href= "">Documentation/Explanation here</a>
+- <a href= "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f">Documentation/Explanation</a>
 <p> <img width = 500  src = https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Importance%20Sampling.png?raw=true></p>
 
 <br>
 
 # Rejection Sampling
 - <a href= "">Python Code here</a>
-- <a href= "">Documentation/Explanation here</a>
+- <a href= "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f">Documentation/Explanation</a>
 <p> <img width = 500  src =https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Rejection_Sampling.png?raw=true></p>
 
 <br>
 
 # Inverse Function Sampling
-- <a href= "">Python Code here</a>
-- <a href= "">Documentation/Explanation here</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Inverse%20Transform%20Sampling.py">Python Code here</a>
+- <a href= "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f">Documentation/Explanation</a>
 <p> <img width = 500  src =https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Inverse_Probability_Sampling.png?raw=true></p>
