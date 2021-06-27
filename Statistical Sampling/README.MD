@@ -1,6 +1,6 @@
 # Monte Carlo Simulation 
 
-<p> <img src = https://cdn-images-1.medium.com/max/1280/1*LVLFpdnvXawhw0fhtT16LA.jpeg> </p>
+<p href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Inverse%20Transform%20Sampling.py"> <img href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Inverse%20Transform%20Sampling.py" src = https://cdn-images-1.medium.com/max/1280/1*LVLFpdnvXawhw0fhtT16LA.jpeg> </p>
 
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Monte%20Carlo%20Simulation%20OLS%20estimate.py">Monte Carlo Estimation Python Code</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Monte%20Carlo%20Simulation%20Estimate%20Properties.py">Monte Carlo Estimate Examination Python Code</a>
