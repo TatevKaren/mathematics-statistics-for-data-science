@@ -12,5 +12,6 @@
 
 # Rejection Sampling
 <p> <img src =https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Rejection_Sampling.png?raw=true></p>
+
 # Inverse Function Sampling
 <p> <img src =https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Inverse_Probability_Sampling.png?raw=true></p>
