@@ -5,7 +5,7 @@
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Monte%20Carlo%20Simulation%20OLS%20estimate.py">Monte Carlo Estimation Python Code</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Monte%20Carlo%20Simulation%20Estimate%20Properties.py">Monte Carlo Estimate Examination Python Code</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Monte%20Carlo%20Simulation%20Integral%20Approximation.py">Monte Carlo Integral Approximation Python Code</a>
-- <a href= "">Documentation/Explanation here</a>
+- <a href= "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f">Documentation/Explanation in This Blog</a>
 
 <br>
 
