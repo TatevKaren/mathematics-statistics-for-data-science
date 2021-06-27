@@ -9,7 +9,7 @@
 
 <br>
 
-<p> <img width = 500 src = https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Unbiased_MC_estimate.png?raw=true></p>
+<p> <img width = 700 src = https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Unbiased_MC_estimate.png?raw=true></p>
 
 <p> <img width = 800  src = https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Consistency:Efficiency_MC.png?raw=truehttps://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistical%20Sampling/Consistency:Efficiency_MC.png?raw=true>
 </p>
