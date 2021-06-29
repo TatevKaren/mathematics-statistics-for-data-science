@@ -27,7 +27,7 @@ OLS estimation method makes the following assumption which needs to be satisfied
 
 
 
-# Linear Regression 
+# Linear Regression Examples
 
 Required Files: 
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Python Code</a>
