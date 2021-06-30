@@ -18,7 +18,7 @@ For other, **Non-symmetric and Skewed Distributed Samples** we can't use the abo
 <br>
 
 
-## Solution 1: Estimating SE of Median Bootstrapping
+## Solution 1: Estimating SE of Median with Bootstrapping
 ``` 
 import numpy as np
 # B: number of Bootstrap samples
@@ -40,7 +40,7 @@ SE_median = np.std(bootstrapped_medians)
 
 <br>
 
-## Solution 1: Estimating SE of Median Monte Carlo Simulation
+## Solution 1: Estimating SE of Median with Monte Carlo Simulation
 - Weibull Ditribution
 - Exponential Distribution
 - Gamma Distribution
