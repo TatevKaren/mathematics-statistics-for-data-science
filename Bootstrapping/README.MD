@@ -1,4 +1,5 @@
-# Bootstrap
+# Standard Error of Mean and Median
+
 ## Estimating Standard Error of Mean
 Standard Error of Mean (SEM) is an inferencial statsitics quantifying the variability of the means in the sampling means. For estimating SEM we need the sampling distribution of means. Then using the standard deviation of sample mans and the sample size one can obtain the SEM as follows:<br>
 <img width="127" alt="Screenshot 2021-06-30 at 9 01 35 AM" src="https://user-images.githubusercontent.com/76843403/123916300-c7bd1b80-d981-11eb-909b-446135dd5638.png">
