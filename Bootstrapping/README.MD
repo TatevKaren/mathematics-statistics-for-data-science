@@ -24,7 +24,10 @@ for i in range(B):
     bootstrap_sample_median = np.median(bootstrap_sample)
     bootstrapped_medians.append(bootstrap_sample_median)
     
-bootstrapped_medians = np.array(bootstrapped_medians)   
+# this vector contains B medians from B bootstrapped samples    
+bootstrapped_medians = np.array(bootstrapped_medians) 
+
+# obtain the standard deviation of bootsrapped medians
 SE_median = np.std(bootstrapped_medians)
 ```
 
