@@ -11,7 +11,8 @@ For **Normally Distributed Sample** we can use the following formula:<br>
 <img width="543" alt="Screenshot 2021-06-30 at 9 05 23 AM" src="https://user-images.githubusercontent.com/76843403/123916762-4f0a8f00-d982-11eb-9e97-af6c3061588a.png">
 
 <br>
-For other, **Non-symmetric and Skewed Distributed Samples** we can't use the above forumla. We can estimate the SE of median by using **Bootsrapping** (if we have a sample) or **Monte Carlo Simulations**(if we have some idea hoow the distributionn looks like and can use similar distributioon to repreatadly sample from).
+
+For other, **Non-symmetric and Skewed Distributed Samples** we can't use the above forumla. We can estimate the SE of median by using **Bootsrapping** (if we have a sample) or **Monte Carlo Simulations** (if we have some idea hoow the distributionn looks like and can use similar distributioon to repreatadly sample from).
 
 
 
