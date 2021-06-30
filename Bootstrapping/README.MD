@@ -14,13 +14,18 @@ For **Normally Distributed Sample** we can use the following formula:<br>
 
 For other, **Non-symmetric and Skewed Distributed Samples** we can't use the above forumla. We can estimate the SE of median by using **Bootsrapping** (if we have an initial sample) or **Monte Carlo Simulations** (if we have some idea how the distributionn looks like and can use similar distributioon to repreatadly sample from).
 
-## Solution 1: Bootstrapping
+<br>
+
+
+## Solution 1: Estimating SE of Median Bootstrapping
 ``` 
 import numpy as np
+# B: number of Bootstrap samples
 
 bootstrapped_medians = []
 for i in range(B):
-    bootstrap_sample = np.random.choice(sample, replace=True, size=1000)
+    #sampling from initial sample with replacement
+    bootstrap_sample = np.random.choice(sample, replace=True, size=N)
     bootstrap_sample_median = np.median(bootstrap_sample)
     bootstrapped_medians.append(bootstrap_sample_median)
     
@@ -32,6 +37,32 @@ SE_median = np.std(bootstrapped_medians)
 ```
 
 
+<br>
+
+## Solution 1: Estimating SE of Median Monte Carlo Simulation
+- Weibull Ditribution
+- Exponential Distribution
+- Gamma Distribution
+- Chi2 Distribution
+- 
+``` 
+import numpy as np
+# M: number of MC simulations
+
+MC_medians = []
+for i in range(M):
+    #sampling from a proposed skewed distribution (e.g. Gamma(2,2))
+    MC_sample = np.random.gamma(2,2,N)
+    MC_sample_median = np.median(MC_sample)
+    MC_medians.appeend(MC_sample_median)
+
+# this vector contains M medians from M MC randomly simulated samples   
+
+SE_median = np.std(MC_medians)/sp.sqrt(N)
+
+```
+
+<img width="968" alt="Screenshot 2021-06-30 at 9 32 49 AM" src="https://user-images.githubusercontent.com/76843403/123920359-27b5c100-d986-11eb-859e-33b69b982b7d.png">
 
 
 
