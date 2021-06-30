@@ -44,7 +44,6 @@ SE_median = np.std(bootstrapped_medians)
 - Exponential Distribution
 - Gamma Distribution
 - Chi2 Distribution
-- 
 ``` 
 import numpy as np
 # M: number of MC simulations
