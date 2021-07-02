@@ -70,6 +70,9 @@
 
 ## Gamma Distribution
 
+## Weibull Distribution
+
+## Chi2 Distribution
 
 
 
