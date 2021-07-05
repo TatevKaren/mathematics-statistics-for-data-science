@@ -36,6 +36,11 @@ n = 10
 #steps
 step = int(N/n)
 
+
 print(systematic_sampling(population_df, step))
 
 ```
+
+#
+#
+#
