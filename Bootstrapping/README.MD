@@ -41,6 +41,8 @@ SE_median = np.std(bootstrapped_medians)
 <br>
 
 ## Solution 1: Estimating SE of Median with Monte Carlo Simulation
+In case we do know the underlying population distribution or at least its form.
+
 - Weibull Ditribution
 - Exponential Distribution
 - Gamma Distribution
