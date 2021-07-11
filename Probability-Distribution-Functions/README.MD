@@ -75,6 +75,6 @@
 ## Chi2 Distribution
 
 
-
+## Beta Distribution
 
 
