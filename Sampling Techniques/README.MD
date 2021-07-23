@@ -37,6 +37,7 @@ step = int(N/n)
 print(systematic_sampling(population_df, step))
 
 ```
+# Data Generation for the following sampling techniques
 
 ```
 price_vb  = pd.Series(np.random.uniform(1,4,size = N))
