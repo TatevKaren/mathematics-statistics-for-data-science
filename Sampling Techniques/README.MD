@@ -41,6 +41,6 @@ print(systematic_sampling(population_df, step))
 
 ```
 
-#
-#
-#
+# Weighted Sampling
+# Cluster Sampling
+# Stratified Sampling
