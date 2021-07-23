@@ -5,6 +5,8 @@
 
 ```
 import numpy as np
+import pandas as pd
+import random
 
 N = 10000
 mu = 10
