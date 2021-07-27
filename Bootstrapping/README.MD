@@ -66,6 +66,10 @@ SE_median = np.std(MC_medians)/sp.sqrt(N)
 
 <img width="968" alt="Screenshot 2021-06-30 at 9 32 49 AM" src="https://user-images.githubusercontent.com/76843403/123920359-27b5c100-d986-11eb-859e-33b69b982b7d.png">
 
+## Testing the difference in means and medians using bootstrapping
+![Difference_in_means](https://user-images.githubusercontent.com/76843403/127105780-485c5d0d-aea7-4c1f-aa05-c42fd6d7f14c.png)
+
+
 
 
 
