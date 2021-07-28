@@ -53,6 +53,8 @@ df.columns = ["id","price","event_type"]
 
 ```
 # Cluster Sampling
+<img width="440" alt="Screenshot 2021-07-28 at 9 04 39 AM" src="https://user-images.githubusercontent.com/76843403/127278905-8e824b1d-006d-40ad-ba74-4e8fa35f66dd.png">
+
 ```
 def get_clustered_Sample(df, n_per_cluster, num_select_clusters):
     N = len(df)
