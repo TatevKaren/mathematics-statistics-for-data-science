@@ -1,6 +1,7 @@
 
 # Random Sampling
 - With or without replacement
+<img width="440" alt="Screenshot 2021-07-28 at 8 58 16 AM" src="https://user-images.githubusercontent.com/76843403/127278234-34830f6e-1a77-426b-b1da-2698dda039d4.png">![Uploading Screenshot 2021-07-28 at 8.58.35 AM.png…]()
 
 
 ```
