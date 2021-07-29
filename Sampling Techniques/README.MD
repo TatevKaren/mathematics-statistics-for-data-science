@@ -21,6 +21,8 @@ def random_sampling(df, replace, n):
     
 ```
 
+<br>
+
 # Systematic Sampling
 <img width="600" alt="Screenshot 2021-07-28 at 8 58 35 AM" src="https://user-images.githubusercontent.com/76843403/127278352-1aadf801-ec8e-47fa-ac78-d283cddf61cc.png">
 
@@ -42,6 +44,9 @@ step = int(N/n)
 print(systematic_sampling(population_df, step))
 
 ```
+<br><br>
+
+
 # Data Generation for the following sampling techniques
 
 ```
@@ -52,6 +57,10 @@ df = pd.concat([id,price_vb,event_type],axis = 1)
 df.columns = ["id","price","event_type"]
 
 ```
+
+<br>
+
+
 # Cluster Sampling
 <img width="600" alt="Screenshot 2021-07-28 at 9 04 39 AM" src="https://user-images.githubusercontent.com/76843403/127278905-8e824b1d-006d-40ad-ba74-4e8fa35f66dd.png">
 
@@ -73,6 +82,8 @@ def get_clustered_Sample(df, n_per_cluster, num_select_clusters):
 print(get_clustered_Sample(df = df, n_per_cluster = 100, num_select_clusters = 2))
 ```
 
+<br><br>
+
 
 
 # Weighted Sampling
@@ -91,6 +102,10 @@ def get_weighted_sample(df,n):
 
 print(get_weighted_sample(df,100))
 ```
+
+<br>
+<br>
+
 
 # Stratified Sampling
 ```
