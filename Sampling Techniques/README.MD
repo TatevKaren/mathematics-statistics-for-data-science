@@ -1,7 +1,7 @@
 
 # Random Sampling
 - With or without replacement
-<img width="440" alt="Screenshot 2021-07-28 at 8 58 16 AM" src="https://user-images.githubusercontent.com/76843403/127278234-34830f6e-1a77-426b-b1da-2698dda039d4.png">
+<img width="600" alt="Screenshot 2021-07-28 at 8 58 16 AM" src="https://user-images.githubusercontent.com/76843403/127278234-34830f6e-1a77-426b-b1da-2698dda039d4.png">
 
 
 ```
@@ -22,7 +22,7 @@ def random_sampling(df, replace, n):
 ```
 
 # Systematic Sampling
-<img width="413" alt="Screenshot 2021-07-28 at 8 58 35 AM" src="https://user-images.githubusercontent.com/76843403/127278352-1aadf801-ec8e-47fa-ac78-d283cddf61cc.png">
+<img width="600" alt="Screenshot 2021-07-28 at 8 58 35 AM" src="https://user-images.githubusercontent.com/76843403/127278352-1aadf801-ec8e-47fa-ac78-d283cddf61cc.png">
 
 ``` 
 def systematic_sampling(df, step):
@@ -53,7 +53,7 @@ df.columns = ["id","price","event_type"]
 
 ```
 # Cluster Sampling
-<img width="440" alt="Screenshot 2021-07-28 at 9 04 39 AM" src="https://user-images.githubusercontent.com/76843403/127278905-8e824b1d-006d-40ad-ba74-4e8fa35f66dd.png">
+<img width="600" alt="Screenshot 2021-07-28 at 9 04 39 AM" src="https://user-images.githubusercontent.com/76843403/127278905-8e824b1d-006d-40ad-ba74-4e8fa35f66dd.png">
 
 ```
 def get_clustered_Sample(df, n_per_cluster, num_select_clusters):
