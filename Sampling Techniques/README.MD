@@ -110,6 +110,8 @@ print(get_weighted_sample(df,100))
 
 
 # Stratified Sampling
+<img width="600" alt="Screenshot 2021-07-29 at 5 42 30 PM" src="https://user-images.githubusercontent.com/76843403/127522770-5dcda638-bfb0-4240-9b7a-24ca7b34ff88.png">
+
 ```
 def get_startified_sample(df,n,num_clusters_needed):
     N = len(df)
