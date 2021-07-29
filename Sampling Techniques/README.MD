@@ -87,6 +87,8 @@ print(get_clustered_Sample(df = df, n_per_cluster = 100, num_select_clusters = 2
 
 
 # Weighted Sampling
+<img width="600" alt="Screenshot 2021-07-29 at 5 30 49 PM" src="https://user-images.githubusercontent.com/76843403/127520866-9a1bfcc6-a57f-40b9-a446-480cc658251a.png">
+
 ```
 def get_weighted_sample(df,n):
 
