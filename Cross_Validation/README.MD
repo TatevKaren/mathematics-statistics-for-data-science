@@ -15,3 +15,8 @@ In this case the data is randomly sampled into K equally sized samples (K-folds)
 <img width="178" alt="Screenshot_2021-06-06_at_6 54 30_PM" src="https://user-images.githubusercontent.com/76843403/127901474-dc365594-d216-4992-8229-1898e968db4a.png">
 
 
+**Bias Variance trade-off**
+
+Usually, K-Fold CV and LOOCV provide similar results and their performance can be evaluated using simulated data. LOOCV has lower bias (unbiased) compared to K-fold CV because LOOCV uses more training data than K-fold CV does. But LOOCV has higher variance than K-fold does because LOOCV is fitting the model on almost identical data each item and the outcomes are highly correlated than the outcomes of K-Fold which are less correlated. Since the mean of highly correlated outcomes has higher variance than the one of less correlated the LOOCV varaince is higher.
+
+
