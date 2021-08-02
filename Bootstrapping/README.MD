@@ -10,8 +10,6 @@ The sampling is performed with replacement, which means that the same observatio
 <br>
 <img width="457" alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/127901830-d245eb24-0bd7-4929-9f68-e2993388ed46.png">
 
-
-
 <img width="359" alt="Screenshot_2021-06-07_at_9 22 09_AM" src="https://user-images.githubusercontent.com/76843403/127901896-b9e3dea0-bc83-479e-aa01-9bba6b383253.png">
 
 
