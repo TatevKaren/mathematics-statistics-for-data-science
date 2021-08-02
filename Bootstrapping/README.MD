@@ -1,3 +1,24 @@
+# Bootstrapping
+
+It is used in many situations in which it is hard or even impossible to directly compute the standard deviation of a quantity of interest.
+A very useful way to quantify the uncertainty associated with the statistical learning method. To obtain the standard errors/measure of variability.
+
+In theory, if we are able to randomly sample 100/1000 samples from the population then we could estimate the Standard error of the target coefficients by calculating their standard deviation. But in practice, it's not possible to random samples from the population 100 or 1000 times. Hence, what Bootstrap does it emulate a new samples generation process from the population s.t. the variability of the estimated coefficients can be determined.
+
+The sampling is performed with replacement, which means that the same observation can occur more than once in the bootstrap data set. So, what Bootstrap does is takes the original training sample and resamples from it by replacement, resulting in B different samples. Then for each of these simulated samples, the coefficient estimate is computed, then by taking the mean of these coefficient estimates and using the common formula for SE we calculate the Standard Error of the Bootrapt model.
+
+<br>
+<img width="457" alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/127901830-d245eb24-0bd7-4929-9f68-e2993388ed46.png">
+
+
+
+<img width="359" alt="Screenshot_2021-06-07_at_9 22 09_AM" src="https://user-images.githubusercontent.com/76843403/127901896-b9e3dea0-bc83-479e-aa01-9bba6b383253.png">
+
+
+
+
+
+
 # Standard Error of Mean and Median
 <br><br>
 ## Estimating Standard Error of Mean
