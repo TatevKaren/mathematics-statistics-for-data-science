@@ -11,5 +11,5 @@
 
 <br> 
 
-## Exponential Distribution Expectation and Variance
-<img width="457" src="https://user-images.githubusercontent.com/76843403/129595597-f5811d3f-ef4e-4490-9b8e-fbc897d6008a.jpeg">
+## Geomettric Distribution Expectation and Variance
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129601203-6354cb03-674c-4b37-b4a7-fff739d95c70.jpeg">
