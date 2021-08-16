@@ -23,5 +23,4 @@
 
 ## Exponential Distribution Expectation and Variance
 <img width="457" src="https://user-images.githubusercontent.com/76843403/129611096-0c23dc1a-9ac8-4c86-b115-b840f1cf4a49.jpeg">
-">
-<img width="457" src="https://user-images.githubusercontent.com/76843403/129611135-2d141e30-e28e-48e9-a852-05c16c882087.jpeg">
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129611220-798f7e74-441e-4350-a025-47c9c3bc8bc9.jpeg">
