@@ -12,4 +12,4 @@
 <br> 
 
 ## Geomettric Distribution Expectation and Variance
-<img width="457" src="https://user-images.githubusercontent.com/76843403/129601203-6354cb03-674c-4b37-b4a7-fff739d95c70.jpeg">
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129602041-d9e178ac-4873-4375-9ed7-250d04b80ecb.jpeg">
