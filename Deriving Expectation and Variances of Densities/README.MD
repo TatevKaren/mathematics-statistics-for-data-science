@@ -14,3 +14,9 @@
 ## Geomettric Distribution Expectation and Variance
 <img width="457" src="https://user-images.githubusercontent.com/76843403/129602113-1c7f4edb-a933-4d17-a66e-6a1077f205bc.jpeg">
 <img width="457" src="https://user-images.githubusercontent.com/76843403/129602041-d9e178ac-4873-4375-9ed7-250d04b80ecb.jpeg">
+
+
+
+## Uniform Distribution Expectation and Variance
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129604847-92d10cc0-d878-4102-87bf-d4e6a501d5b9.jpeg">
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129604857-731bb313-baf1-4273-acb5-0f0c8a72ae02.jpeg">
