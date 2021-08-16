@@ -2,6 +2,7 @@
 <br>
 
 ## Bernoulli Distribution Expectation and Variance
-<img width="457" alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/129593714-e922f074-75ef-4ad3-94f7-edc3212eebd5.jpeg">
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129593714-e922f074-75ef-4ad3-94f7-edc3212eebd5.jpeg">
 
-
+## Bernoulli Distribution Expectation and Variance
+<img width="457" src="https://user-images.githubusercontent.com/76843403/129595597-f5811d3f-ef4e-4490-9b8e-fbc897d6008a.jpeg">![Binomial_Distribution]
