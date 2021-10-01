@@ -24,7 +24,7 @@ def random_sampling(df, replace, n):
 <br>
 
 # Systematic Sampling
-<img width="600" alt="Screenshot 2021-07-28 at 8 58 35 AM" src="https://user-images.githubusercontent.com/76843403/127278352-1aadf801-ec8e-47fa-ac78-d283cddf61cc.png">
+<img width="500" alt="Screenshot 2021-07-28 at 8 58 35 AM" src="https://user-images.githubusercontent.com/76843403/127278352-1aadf801-ec8e-47fa-ac78-d283cddf61cc.png">
 
 ``` 
 def systematic_sampling(df, step):
