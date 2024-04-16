@@ -1,7 +1,7 @@
 # Fundamentals to Linear Algebra - Student, Data Science and Machine Learning
 ## LunarTech Academy <a href="https://lunartech.ai"> Get Started</a>
 
-<img width="1000" height="2000" alt="Screenshot 2024-04-16 at 11 08 04 AM" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/65ee6db8-9717-4a2b-8dd1-0556922b63d9">
+<img width="1000" length = '1800' alt="LinearAlgebraRoadmap-3" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/5e4a67e9-a255-4753-9e1b-8cdcfde32b08">
 
 
 # Unit 1: Pre-Requisites and Refreshment
