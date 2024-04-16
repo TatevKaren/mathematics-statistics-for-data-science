@@ -1,3 +1,6 @@
+<img width="428" alt="Screenshot 2024-04-16 at 11 08 04 AM" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/65ee6db8-9717-4a2b-8dd1-0556922b63d9">
+
+
 # Unit 1: Pre-Requisites and Refreshment
 - Refreshment - Real Numbers and Vector Space
 - Refreshment - Norm of Vector
