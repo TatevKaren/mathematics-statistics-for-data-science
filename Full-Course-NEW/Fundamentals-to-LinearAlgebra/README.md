@@ -1,5 +1,5 @@
 # Fundamentals to Linear Algebra - Student, Data Science and Machine Learning
-## LunarTech Academy <a href="https://lunartech.ai"> visit website here<\a>
+## LunarTech Academy <a href="https://lunartech.ai"> visit website here</a>
 
 <img width="1000" height="2000" alt="Screenshot 2024-04-16 at 11 08 04 AM" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/65ee6db8-9717-4a2b-8dd1-0556922b63d9">
 
