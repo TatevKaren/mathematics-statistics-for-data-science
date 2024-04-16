@@ -3,7 +3,8 @@
 ## For Students and for Data Science, Machine Learning and AI Professionals
 ### LunarTech Academy <a href="https://lunartech.ai"> Get Started</a>
 
-<img width="1000" height="2000" alt="Screenshot 2024-04-16 at 11 08 04 AM" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/65ee6db8-9717-4a2b-8dd1-0556922b63d9">
+
+<img width="1000" height="2000" alt="LinearAlgebraRoadmap-3" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/55d144da-f139-453f-849a-9061833b44c7">
 
 
 ## Unit 1: Pre-Requisites and Refreshment
