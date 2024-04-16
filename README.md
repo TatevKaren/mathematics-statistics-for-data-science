@@ -4,7 +4,7 @@
 ### LunarTech Academy <a href="https://lunartech.ai"> Get Started</a>
 
 
-<img width="1000" height="2000" alt="LinearAlgebraRoadmap-3" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/55d144da-f139-453f-849a-9061833b44c7">
+<img width="1000" height="1700" alt="LinearAlgebraRoadmap-3" src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/assets/76843403/55d144da-f139-453f-849a-9061833b44c7">
 
 
 ## Unit 1: Pre-Requisites and Refreshment
